@@ -15,5 +15,5 @@ A simple inspiration gallery generator using the Behance API. Search for designs
 
 ## Wireframes
 
-* ![Desktop](https://raw.githubusercontent.com/yunjilee/desflo/assets/images/wireframes/desktop.png)
-* ![Mobile](https://raw.githubusercontent.com/yunjilee/desflo/assets/images/wireframes/mobile.png)
+* ![Desktop](https://github.com/yunjilee/desflo/blob/master/assets/images/wireframes/desktop.png)
+* ![Mobile](https://github.com/yunjilee/desflo/blob/master/assets/images/wireframes/mobile.png)
