@@ -2,6 +2,8 @@
 
 A simple inspiration gallery generator using the Behance API. Search for designs based on a keyword & color, and favorite those that stand out.
 
+[Project Proposal](https://github.com/yunjilee/desflo/blob/master/ProjectProposal.pdf)
+
 ## Built With
 
 * Frontend - HTML/CSS/JS/JQuery
