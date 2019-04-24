@@ -1,0 +1,174 @@
+/* MEDIA */
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 376px) {
+  html {
+    font-size: 14px;
+  }
+  .header-overlay {
+    font-size: 5em;
+  }
+  #landing-container .header-overlay {
+    margin-top: 50px;
+  }
+
+  .search-bar {
+    width: 90%;
+  }
+  #color-id {
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+  }
+  #submit-id {
+    height: 40px;
+  }
+
+  .mini-search-bar-1 {
+    display: none;
+  }
+  .mini-search-bar-2 {
+    width: 90%;
+    max-width: 350px;
+  }
+  .mini-color {
+    width: 38px;
+    height: 38px;
+    border-radius: 13px;
+  }
+  .mini-submit {
+    height: 38px;
+  }
+
+  .input-field {
+    font-size: 1.4em;
+    border-radius: 13px;
+  }
+  .mini-input-field {
+    height: 38px;
+    font-size: 1.4em;
+    border-radius: 13px;
+  }
+  .space {
+    width: 18px;
+  }
+  .light-button {
+    font-size: 1.4em;
+    border-radius: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .dark-button {
+    font-size: 1.4em;
+    border-radius: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .sub-text {
+    font-size: 1.4em;
+  }
+
+  #results-row {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .result-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .signin-container {
+    width: 90%;
+    max-width: 400px;
+  }
+}
+
+@media (min-width: 426px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 769px) {
+  html {
+    font-size: 18px;
+  }
+  .header-overlay {
+    margin-left: 15px;
+    margin-top: 0px;
+    font-size: 5.5m;
+  }
+  #landing-container .header-overlay {
+    margin-top: 0px;
+  }
+
+  .search-bar {
+    width: 50%;
+    min-width: 500px;
+  }
+  #color-id {
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+  }
+  #submit-id {
+    height: 50px;
+  }
+
+  .mini-search-bar-1 {
+    display: inline;
+    width: 50%;
+    min-width: 320px;
+  }
+  .mini-search-bar-2 {
+    display: none;
+  }
+  .mini-color {
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+  }
+
+  .input-field {
+    font-size: 1.3em;
+    border-radius: 15px;
+  }
+  .mini-input-field {
+    height: 40px;
+    font-size: 20px;
+    border-radius: 13px;
+  }
+  .light-button {
+    font-size: 1.3em;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .dark-button {
+    font-size: 1.3em;
+    border-radius: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .sub-text {
+    font-size: 1.3em;
+  }
+
+  #results-row {
+    margin-left: 45px;
+    margin-right: 45px;
+  }
+  .result-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .signin-container {
+    width: 35%;
+    min-width: 450px;
+  }
+}
