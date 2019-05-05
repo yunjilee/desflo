@@ -32,7 +32,6 @@
 
 	<?php
 		include 'shared/nav_landing.php';
-    // print_r($_SESSION);
 	?>
 
   <div class="vertical-center center">

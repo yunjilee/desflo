@@ -11,7 +11,7 @@
       <?php $_SESSION['page_id'] = 1; ?>
     });
   </script>
-  
+
   <?php include '../shared/head.php'; ?>
   <link rel="stylesheet" type="text/css" href="../assets/styles/main.css">
   <link rel="stylesheet" type="text/css" href="../assets/styles/media.css">

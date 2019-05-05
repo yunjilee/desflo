@@ -34,6 +34,8 @@
 
 				<?php if($_SESSION['page_id'] != 3) : ?>
 					<a class="p-2" href="my_inspo.php">My Inspo</a>
+				<?php else : ?>
+					<a class="p-2" href="../user/update_info.php">Update Info</a>
 				<?php endif; ?>
 				<a class="p-2" href="../user/signout.php">Sign Out</a>
 

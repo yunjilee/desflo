@@ -104,7 +104,6 @@
       $.each($(this).serializeArray(), function(i, field) {
           values[field.name] = field.value;
       });
-      // console.log(values);
 
       $.ajax({
           url: '../ajax/delete_from_favorites.php',

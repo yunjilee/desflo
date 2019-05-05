@@ -20,8 +20,6 @@
     $color_hashed = $_GET['color'];
     $color = str_replace('#', '', $color_hashed);
   }
-  // echo 'Keyword: ' . $keyword . '<br>';
-  // echo 'Color: ' . $color;
 
   $search_params = array(
     'q' => $keyword,
@@ -127,7 +125,6 @@
       $.each($(this).serializeArray(), function(i, field) {
           values[field.name] = field.value;
       });
-      // console.log(values);
 
       $.ajax({
           url: '../ajax/add_to_favorites.php',
